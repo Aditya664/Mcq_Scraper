@@ -1,0 +1,272 @@
+Mathematics Questions and Answers – Three Dimensional Geometry – Coordinates of a Point in Space
+
+-----------------------------------------------------------------------------------------------------------------
+
+1. The point (4, 0, 0) lie on _____________
+a) X-axis
+b) Y-axis
+c) Z-axis
+d) Y-Z plane
+Answer: a
+Explanation: In 3d coordinate system, a point with y and z coordinate zero and x-coordinate having non-zero value must lie on x-axis. So, (4, 0, 0) lie on x-axis.
+
+
+2. The point (0, 0, 3) lie on ____________
+a) X-axis
+b) Y-axis
+c) Z-axis
+d) X-Y plane
+Answer: c
+Explanation: In 3d coordinate system, a point with x and y coordinate zero and z-coordinate having non-zero value must lie on z-axis. So, (0, 0, 3) lie on z-axis.
+
+3. The point (0, 2, 0) lie on _________
+a) X-axis
+b) Y-axis
+c) Z-axis
+d) X-Y plane
+Answer: b
+Explanation: In 3d coordinate system, a point with x and z coordinate zero and y-coordinate having non-zero value must lie on y-axis. So, (0, 2, 0) lie on y-axis.
+
+
+
+4. The point (0, 2, 4) lie on _________
+a) X-Y plane
+b) Y-Z plane
+c) X-Z plane
+d) X-axis
+Answer: b
+Explanation: In 3d coordinate system, a point with x-coordinate zero and y & z coordinate having non-zero value must lie on Y-Z plane. So, (0, 2, 4) lie on Y-Z plane.
+
+5. The point (4, 2, 0) lie on _________
+a) X-Y plane
+b) Y-Z plane
+c) X-Z plane
+d) X-axis
+Answer: a
+Explanation: In 3d coordinate system, a point with z-coordinate zero and x & y coordinate having non-zero value must lie on X-Y plane. So, (4, 2, 0) lie on X-Y plane.
+
+
+6. The point (3, 0, 4) lie on _________
+a) X-Y plane
+b) Y-Z plane
+c) X-Z plane
+d) X-axis
+Answer: c
+Explanation: In 3d coordinate system, a point with y-coordinate zero and x & z coordinate having non-zero value must lie on X-Z plane. So, (3, 0, 4) lie on X-Z plane.
+
+7. Find the distance of point (2, 3, 5) from X-Y plane.
+a) 2 units
+b) 3 units
+c) 5 units
+d) 1 unit
+Answer: c
+Explanation: We know, distance of a point from X-Y plane is equal to the value of its z-coordinate.
+So, distance of point (2, 3, 5) from X-Y plane is 5 units.
+
+
+8. Find the distance of point (2, 3, 5) from Y-Z plane.
+a) 2 units
+b) 3 units
+c) 5 units
+d) 1 unit
+Answer: a
+Explanation: We know, distance of a point from Y-Z plane is equal to the value of its x-coordinate.
+So, distance of point (2, 3, 5) from Y-Z plane is 2 units.
+
+9. Find the distance of point (2, 3, 5) from X-Z plane.
+a) 2 units
+b) 3 units
+c) 5 units
+d) 1 unit
+Answer: b
+Explanation: We know, distance of a point from X-Z plane is equal to the value of its y-coordinate.
+So, distance of point (2, 3, 5) from X-Z plane is 3 units.
+
+
+10. 2-D geometry has ______________ quadrants.
+a) 1
+b) 2
+c) 4
+d) 8
+Answer: c
+Explanation: 2-D geometry can have 2 coordinates each with positive or negative value.
+Total quadrants = 2*2 = 4.
+
+11. 3-D geometry has ______________ octants.
+a) 1
+b) 2
+c) 4
+d) 8
+Answer: d
+Explanation: 3-D geometry can have 3 coordinates each with positive or negative value.
+Total octants = 2*2*2 = 8.
+
+12. In which octant does the point (1, 5, 7) lies?
+a) 1st
+b) 2nd
+c) 6th
+d) 7th
+Answer: a
+Explanation: Since the point with all positive coordinates i.e. of the form (+, +, +) so lie in 1st octant.
+So, (1, 5, 7) lies in 1st octant.
+
+13. In which octant does the point (-1, – 5, -7) lies?
+a) 1st
+b) 2nd
+c) 6th
+d) 7th
+Answer: d
+Explanation: Since the point with all negative coordinates i.e. of the form (-, -, -) lie in 7th octant.
+So, (-1, – 5, -7) lies in 7th octant.
+
+14. In which octant does the point (-1, 5, 7) lies?
+a) 1st
+b) 2nd
+c) 6th
+d) 7th
+Answer: b
+Explanation: Since the point with only x coordinate negative i.e. of the form (-, +, +) lie in 2nd octant.
+So, (-1, 5, 7) lies in 2nd octant.
+
+15. In which octant does the point (-1, 5, -7) lies?
+a) 1st
+b) 2nd
+c) 6th
+d) 7th
+Answer: c
+Explanation: Since the point with only y coordinate positive i.e. of the form (-, +, -) lie in 6th octant.
+So, (-1, 5, -7) lies in 6th octant.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+Mathematics Questions and Answers – Three Dimensional Geometry – Section Formula
+
+-----------------------------------------------------------------------------------------------------------------
+
+1. Find midpoint of (1, 4, 6) and (5, 8, 10).
+a) (6, 12, 8)
+b) (3, 6, 8)
+c) (1, 9, 12)
+d) (4, 9, 12)
+Answer: b
+Explanation: We know, midpoint of (x1, y1, z1) and (x2, y2, z2) is (x1+x2) /2, (y1+y2) /2, (z1+z2)/2).
+So, midpoint of (1, 4, 6) and (5, 8, 10) is ((1+5)/ 2, (4+8)/ 2, (6+10)/2) is (3, 6, 8).
+
+
+2. The coordinates of a point dividing the line segment joining (1, 2, 3) and (4, 5, 6) internally in the ratio 2:1 is ____________________
+a) (3, 4, 5)
+b) (5, 4, 3)
+c) (5, 3, 4)
+d) (4, 5, 3)
+Answer: a
+Explanation: The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) internally in the ratio m : n is \((\frac{mx_2+nx_1}{m+n},\frac{my_2+ny_1}{m+n},\frac{mz_2+nz_1}{m+n})\).
+So, the coordinates of a point dividing the line segment joining (1, 2, 3) and (4, 5, 6) internally in the ratio 2:1 is \((\frac{2*4+1*1}{2+1},\frac{2*5+1*2}{2+1},\frac{2*6+1*3}{2+1})\) = (3, 4, 5).
+
+3. In which ratio (3, 4, 5) divides the line segment joining (1, 2, 3) and (4, 5, 6) internally?
+a) 1:2
+b) 2:1
+c) 3:4
+d) 4:3
+Answer: b
+Explanation: The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) internally in the ratio m: n is \((\frac{mx_2+nx_1}{m+n},\frac{my_2+ny_1}{m+n},\frac{mz_2+nz_1}{m+n})\).
+Let the ratio be k : 1.So, the coordinates of a point dividing the line segment joining (1, 2, 3) and (4, 5, 6) internally in the ratio k: 1 is \((\frac{k*4+1*1}{k+1},\frac{k*5+1*2}{k+1},\frac{k*6+1*3}{k+1})\) 
+=> \((\frac{k*4+1*1}{k+1},\frac{k*5+1*2}{k+1},\frac{k*6+1*3}{k+1})\) is same as (3, 4, 5).
+=> (4k+1)/(k+1) = 3
+=> 4k+1 = 3k+3
+=> k = 2
+So, ratio is 2:1.
+
+
+
+4. The coordinates of a point dividing the line segment joining (1, 2, 3) and (4, 5, 6) externally in the ratio 2:1 is ____________________
+a) (4, 5, 6)
+b) (6, 8, 9)
+c) (7, 8, 9)
+d) (8, 6, 4)
+Answer: c
+Explanation: The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) externally in the ratio m : n is \((\frac{mx_2-nx_1}{m-n},\frac{my_2-ny_1}{m-n},\frac{mz_2-nz_1}{m-n})\).
+So, the coordinates of a point dividing the line segment joining (1, 2, 3) and (4, 5, 6) externally in the ratio 2:1 is \((\frac{2*4-1*1}{2-1},\frac{2*5-1*2}{2-1},\frac{2*6-1*3}{2-1})\) = (7, 8, 9).
+
+5. If coordinates of vertices of a triangle are (7, 6, 4), (5, 4, 6), (9, 5, 8), find the coordinates of centroid of the triangle.
+a) (7, 5, 3)
+b) (7, 3, 5)
+c) (5, 3, 7)
+d) (3, 5, 7)
+Answer: a
+Explanation: If coordinates of vertices of a triangle are (x1, y1, z1), (x2, y2, z2), (x3, y3, z3) the coordinates of centroid of the triangle are ((x1+x2+x3)/3, (y1+y2+y3)/3, (z1+z2+z3)/3)
+So, coordinates of centroid of the given triangle are ((7+5+9)/3, (6+4+5)/3, (4+6+8)/3) = (7, 5, 3).
+
+
+6. The ratio in which line joining (1, 2, 3) and (4, 5, 6) divide X-Y plane is ________
+a) 2
+b) -2
+c) 1/2
+d) -1/2
+Answer: d
+Explanation: The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) internally in the ratio m : n is \((\frac{mx_2+nx_1}{m+n},\frac{my_2+ny_1}{m+n},\frac{mz_2+nz_1}{m+n})\).
+Let ratio be k : 1.
+So, z-coordinate of the point will be (k*6+1*3)/(k+1).
+We know, for X-Y plane, z coordinate is zero.
+(6k+1*3)/(k+1) = 0 => k=-1/2
+
+7. Find the points which trisects the line joining (4, 9, 8) and (13, 27, -4).
+a) (7, 4, 15)
+b) (7, 15, 4)
+c) (4, 15, 7)
+d) (4, 7, 15)
+Answer: b
+Explanation: Points which trisect the line divides it into 2:1 and 1:2.
+The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) internally in the ratio m : n is \((\frac{mx_2+nx_1}{m+n},\frac{my_2+ny_1}{m+n},\frac{mz_2+nz_1}{m+n})\).
+For 1:2, coordinates of point are \((\frac{1*13+2*4}{1+2},\frac{1*27+2*9}{1+2},\frac{-4+2*8}{1+2})\) = (7, 15, 4)
+For 2:1, coordinates of point are \((\frac{2*13+1*4}{1+2},\frac{2*27+1*9}{1+2},\frac{-8+1*8}{1+2})\) = (10, 21, 0)
+
+
+8. Find the points which trisects the line joining (4, 9, 8) and (13, 27, -4).
+a) (0, 21, 10)
+b) (0, 21, 4)
+c) (10, 21, 0)
+d) (4, 4, 0)
+Answer: c
+Explanation: Points which trisect the line divides it into 2:1 and 1:2.
+The coordinates of a point dividing the line segment joining (x1, y1, z1) and (x2, y2, z2) internally in the ratio m : n is \((\frac{mx_2+nx_1}{m+n},\frac{my_2+ny_1}{m+n},\frac{mz_2+nz_1}{m+n})\).
+For 1:2, coordinates of point are \((\frac{1*13+2*4}{1+2},\frac{1*27+2*9}{1+2},\frac{-4+2*8}{1+2})\) = (7, 15, 4)
+For 2:1, coordinates of point are \((\frac{2*13+1*4}{1+2},\frac{2*27+1*9}{1+2},\frac{-8+1*8}{1+2})\) = (10, 21, 0)
+
+9. If P (2, 3, 9), Q (2, 5, 5) and R (8, 5, 3) are vertices of a triangle then find the length of median through P.
+a) \(\sqrt{24}\) 
+b) \(\sqrt{38}\) 
+c) \(\sqrt{11}\) 
+d) \(\sqrt{53}\) 
+Answer: b
+Explanation: We know, midpoint of (x1, y1, z1) and (x2, y2, z2) is ((x1+x2)/2, (y1+y2)/2, (z1+z2)/2).
+Midpoint of line QR is (5, 5, 4).
+Length of median through P is distance between midpoint of QR and P i.e. \(\sqrt{(5-2)^2+(5-3)^2+(4-9)^2} = \sqrt{(3)^2+(2)^2+(-5)^2} = \sqrt{38}\)
+
+
+10. If P (2, 3, 9), Q (2, 5, 5) and R (8, 5, 3) are vertices of a triangle then find the length of median through Q.
+a) \(\sqrt{24}\) 
+b) \(\sqrt{38}\) 
+c) \(\sqrt{11}\) 
+d) \(\sqrt{53}\) 
+Answer: c
+Explanation: We know, midpoint of (x1, y1, z1) and (x2, y2, z2) is ((x1+x2)/2, (y1+y2)/2, (z1+z2)/2).
+Midpoint of line PR is (5, 4, 6).
+Length of median through Q is distance between midpoint of PR and Q i.e. \(\sqrt{(5-2)^2+(4-5)^2+(6-5)^2} = \sqrt{(3)^2+(-1)^2+(1)^2} = \sqrt{11}\).
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
